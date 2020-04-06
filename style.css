@@ -51,12 +51,15 @@ body {
 
 a:link {
     color:whitesmoke;
+    text-decoration: none;
     }
     a:visited {
     color:whitesmoke;
+    text-decoration: none;
     }
     a:hover {
     color:blue;
+    text-decoration: underline;
     
     }
   
